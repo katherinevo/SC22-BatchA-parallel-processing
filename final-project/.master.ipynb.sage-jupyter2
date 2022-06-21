@@ -44,5 +44,5 @@
 {"cell_type":"markdown","id":"d3d850","input":"which model performed the best? (highest accuracy? lowest error rate?) \n\nwhat were some limitations that we had in this project? (look at product spec)\n\nwhat now? -- how can we apply this to the real world? what further research could be done?","pos":40,"type":"cell"}
 {"cell_type":"markdown","id":"e30c6b","input":"#### k-Nearest Neighbors\n\n","pos":23,"type":"cell"}
 {"cell_type":"markdown","id":"f73a8f","input":"A heatmaps main purpose is to display the correlation between features in a dataset. If you look above you are able to see all the features: Glucose, BMI, etc. and their correlation to the outcome. \n\n*which features have a highest correlation? which features have the lowest? how does this impact which features you choose to use in your models?*\n\n","pos":6,"type":"cell"}
-{"id":0,"time":1655505267165,"type":"user"}
-{"last_load":1655501791243,"type":"file"}
+{"id":0,"time":1655756200028,"type":"user"}
+{"last_load":1655827823585,"type":"file"}
